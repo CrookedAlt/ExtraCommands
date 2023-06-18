@@ -1,0 +1,33 @@
+{
+    "Description": "Used For Finding Linked Commands, Or Commands That Do The Same Things.",
+    "Commands": {
+            "Invoke": {
+                "Invoke": "Invoke.Bat",
+                "InvokeWith": "InvokeWith.Bat",
+                "StartWith": "StartWith.Bat",
+                
+                "Description": "Open File With An App"
+            },
+            "Invoker": {
+                "Invoker": "Invoker.Bat",
+                "StartBlocked": "StartBlocked.Bat",
+                
+                "Description": "Open Blocked ( Shielded ) Apps"
+            },
+            "SystemCheckup": {
+                "SystemCtrlCheck": "SystemCtrlCheck.Bat",
+                "SystemCheck": "SystemCheck.Bat",
+                "SystemCheckup": "SystemCheckup.Bat",
+                
+                "Description": "Checkup On Device, Used For Errors And Slowness"
+            }, 
+            "WifiProfiles": {
+                "WifiPass": "WifiPass.Bat",
+                "WifiPassword": "WifiPassword.Bat",
+                "WifiPro": "WifiPro.Bat",
+                "WifiProfile": "WifiProfile.Bat",
+                
+                "Description": "See Wifi Profiles And See Wifi Passwords"
+            }
+        }
+}
