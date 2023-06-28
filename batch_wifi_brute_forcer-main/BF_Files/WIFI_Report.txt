@@ -1,7 +1,7 @@
 [------------------------------------]
  WIFI Brute Force Results
 [------------------------------------]
- SSID: PSDPSK
+ SSID: Public-Wifi
  Password: tallchain64
  Attemps: 1
 [------------------------------------]
