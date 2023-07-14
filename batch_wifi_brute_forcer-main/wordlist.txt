@@ -1,4 +1,3 @@
-tallchain64
 password
 12341234
 1a2b3c4d

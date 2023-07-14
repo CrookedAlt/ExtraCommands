@@ -3,7 +3,7 @@
 	<name>changethistitle</name>
 	<SSIDConfig>
 		<SSID>
-			<name>PSDPSK</name>
+			<name>changethistitle</name>
 		</SSID>
 	</SSIDConfig>
 	<connectionType>ESS</connectionType>
@@ -18,7 +18,7 @@
 			<sharedKey>
 				<keyType>passPhrase</keyType>
 				<protected>false</protected>
-				<keyMaterial>tallchain64</keyMaterial>
+				<keyMaterial>changethiskey</keyMaterial>
 			</sharedKey>
 		</security>
 	</MSM>
