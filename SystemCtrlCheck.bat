@@ -10,4 +10,4 @@ for /f "tokens=2 delims=:" %%a in ('find "Current Mode:" ~.txt') do (
 	
 )
 endlocal
-REM SytemCheckup
+REM SystemCheckup
