@@ -1,33 +1,16 @@
 {
-    "Description": "Used For Finding Linked Commands, Or Commands That Do The Same Things.",
     "Commands": {
             "Invoke": {
-                "Invoke": "Invoke.Bat",
-                "InvokeWith": "InvokeWith.Bat",
-                "StartWith": "StartWith.Bat",
-                
-                "Description": "Open File With An App"
-            },
-            "Invoker": {
-                "Invoker": "Invoker.Bat",
-                "StartBlocked": "StartBlocked.Bat",
-                
-                "Description": "Open Blocked ( Shielded ) Apps"
+                "Start An App With Another App": "Example: Open File.txt With Notepad.exe"
             },
             "SystemCheckup": {
-                "SystemCtrlCheck": "SystemCtrlCheck.Bat",
-                "SystemCheck": "SystemCheck.Bat",
-                "SystemCheckup": "SystemCheckup.Bat",
-                
-                "Description": "Checkup On Device, Used For Errors And Slowness"
+                "Checkup On Your System!": "Example: Run The Program And Then Open ~.txt"
             }, 
             "WifiProfiles": {
-                "WifiPass": "WifiPass.Bat",
-                "WifiPassword": "WifiPassword.Bat",
-                "WifiPro": "WifiPro.Bat",
-                "WifiProfile": "WifiProfile.Bat",
-                
-                "Description": "See Wifi Profiles And See Wifi Passwords"
+                "All Wifi's You've Connected To That Saved On Your PC": "Example: Run Program In CMD"
+            },
+            "WifiAttack": {
+                "Wifi BruteForcer >:)": "WARNING: DONT DO THIS WITHOUT PERMISSION"
             }
         }
 }
