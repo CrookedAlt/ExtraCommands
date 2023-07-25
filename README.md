@@ -1,43 +1,25 @@
 # EXTRA COMMANDS
 
  Extra Commands Is A Command Line Tool That Uses Multiple Commands To Do Multiple Things
-
-HUGE THANKS TO TUX He Is The Creator Of The Batch Brute Forcer. ALL THINGS IN THE BRUTE FORCER Is Made By Him
-
-This Is Will Be Mostly A Compilation Of Stuff I Found In Github
-( For Now Most Of The Stuff In Here Was Made By Me)
+ TUX, or Technical User X Made The Batch Brute Forcer So Huge Thanks To Him
+ Most Of These "Commands" Will Just Be Things I Have Gotten Bored Of Typing Out, Or Things I've Found
 
 ## Extra Command List
- Invoke  
- Invoke  Invoke.Bat  
- InvokeWith  InvokeWith.Bat  
- StartWith  StartWith.Bat  
-  
- Description  Open File With An App 
-  
- Invoker 
- Invoker  Invoker.Bat  
- StartBlocked  StartBlocked.Bat  
-  
- Description  Open Blocked ( Shielded ) Apps 
-  
- SystemCheckup  
- SystemCtrlCheck  SystemCtrlCheck.Bat  
- SystemCheck  SystemCheck.Bat  
- SystemCheckup  SystemCheckup.Bat  
-  
- Description  Checkup On Device  Used For Errors And Slowness 
- 
- WifiProfiles  
- WifiPass  WifiPass.Bat  
- WifiPassword  WifiPassword.Bat  
- WifiPro  WifiPro.Bat  
- WifiProfile  WifiProfile.Bat  
-  
- Description  See Wifi Profiles And See Wifi Passwords 
+Written In A JSON-Like Format From Yours Truly
 
-
- *Not ALL Of The Commands Are In ReadMe.MD Yet
- 
- 
- 
+{
+    "Commands": {
+            "Invoke": {
+                "Start An App With Another App": "Example: Open File.txt With Notepad.exe"
+            },
+            "SystemCheckup": {
+                "Checkup On Your System!": "Example: Run The Program And Then Open ~.txt"
+            }, 
+            "WifiProfiles": {
+                "All Wifi's You've Connected To That Saved On Your PC": "Example: Run Program In CMD"
+            },
+            "WifiAttack": {
+                "Wifi BruteForcer >:)": "WARNING: DONT DO THIS WITHOUT PERMISSION"
+            }
+        }
+}
