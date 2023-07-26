@@ -1,10 +1,10 @@
 {
     "Commands": {
             "Invoke": {
-                "Open A File With A Specific App": "Example: Open File.txt With Notepad.exe"
+                "Opens A File With A Specific App": "Example: Open File.txt With Notepad.exe"
             },
             "SystemCheckup": {
-                "Checkup On Your System!": "Outputs to ~.txt"
+                "Checks up On Your System!": "Outputs to ~.txt"
             }, 
             "WifiProfiles": {
                 "Shows All Saved WiFi Networks"
