@@ -5,12 +5,6 @@
             },
             "SystemCheckup": {
                 "Checks up On Your System!": "Outputs to ~.txt"
-            }, 
-            "WifiProfiles": {
-                "Shows All Saved WiFi Networks"
-            },
-            "WifiAttack": {
-                "Wifi BruteForcer >:)": "WARNING: CRACKS WIFI PASSWORDS"
             }
         }
 }

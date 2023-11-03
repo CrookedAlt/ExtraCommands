@@ -14,12 +14,6 @@ Written In A JSON Format From Yours Truly
             },  
             "SystemCheckup": {  
                 "Checks up On Your System": "Outputs to ~.txt"  
-            },  
-            "WifiProfiles": {  
-                "Shows All Saved WiFi Networks"  
-            },  
-            "WifiAttack": {  
-                "Wifi BruteForcer >:)": "WARNING: CRACKS WIFI PASSWORDS"  
-            }  
+            }
         }  
 }  
