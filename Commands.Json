@@ -1,16 +1,10 @@
 {
     "Commands": {
             "Invoke": {
-                "Start An App With Another App": "Example: Open File.txt With Notepad.exe"
+                "Opens A File With A Specific App": "Example: Open File.txt With Notepad.exe"
             },
             "SystemCheckup": {
-                "Checkup On Your System!": "Example: Run The Program And Then Open ~.txt"
-            }, 
-            "WifiProfiles": {
-                "All Wifi's You've Connected To That Saved On Your PC": "Example: Run Program In CMD"
-            },
-            "WifiAttack": {
-                "Wifi BruteForcer >:)": "WARNING: DONT DO THIS WITHOUT PERMISSION"
+                "Checks up On Your System!": "Outputs to ~.txt"
             }
         }
 }
